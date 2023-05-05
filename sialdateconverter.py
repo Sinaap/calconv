@@ -12,7 +12,7 @@ def isleapyear(yr):
         else:
             return False
     elif yr <= 1342:
-        if numin data2:
+        if num in data2:
             return True
         else:
             return False
